@@ -2,7 +2,7 @@
   "name": "sfmayor-rcv-2018",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elbertwang3.github.io/sf-mayor-rcv",
+  "homepage": "https://elbertwang3.github.io/sfmayor-rcv-2018",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "react": "^16.4.1",
@@ -17,5 +17,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
   }
 }
