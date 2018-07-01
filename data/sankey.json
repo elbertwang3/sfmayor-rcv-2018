@@ -1,0 +1,577 @@
+{
+  "nodes": [
+    {
+      "votes": 900,
+      "name": "Michelle Bravo round1",
+      "candidate": "Michelle Bravo",
+      "round": 1
+    },
+    {
+      "votes": 92124,
+      "name": "London Breed round1",
+      "candidate": "London Breed",
+      "round": 1
+    },
+    {
+      "votes": 92243,
+      "name": "London Breed round2",
+      "candidate": "London Breed",
+      "round": 2
+    },
+    {
+      "votes": 92442,
+      "name": "London Breed round3",
+      "candidate": "London Breed",
+      "round": 3
+    },
+    {
+      "votes": 93605,
+      "name": "London Breed round4",
+      "candidate": "London Breed",
+      "round": 4
+    },
+    {
+      "votes": 96392,
+      "name": "London Breed round5",
+      "candidate": "London Breed",
+      "round": 5
+    },
+    {
+      "votes": 102767,
+      "name": "London Breed round6",
+      "candidate": "London Breed",
+      "round": 6
+    },
+    {
+      "votes": 115977,
+      "name": "London Breed round7",
+      "candidate": "London Breed",
+      "round": 7
+    },
+    {
+      "votes": 61416,
+      "name": "Mark Leno round1",
+      "candidate": "Mark Leno",
+      "round": 1
+    },
+    {
+      "votes": 61533,
+      "name": "Mark Leno round2",
+      "candidate": "Mark Leno",
+      "round": 2
+    },
+    {
+      "votes": 61881,
+      "name": "Mark Leno round3",
+      "candidate": "Mark Leno",
+      "round": 3
+    },
+    {
+      "votes": 62861,
+      "name": "Mark Leno round4",
+      "candidate": "Mark Leno",
+      "round": 4
+    },
+    {
+      "votes": 64128,
+      "name": "Mark Leno round5",
+      "candidate": "Mark Leno",
+      "round": 5
+    },
+    {
+      "votes": 68707,
+      "name": "Mark Leno round6",
+      "candidate": "Mark Leno",
+      "round": 6
+    },
+    {
+      "votes": 113431,
+      "name": "Mark Leno round7",
+      "candidate": "Mark Leno",
+      "round": 7
+    },
+    {
+      "votes": 60738,
+      "name": "Jane Kim round1",
+      "candidate": "Jane Kim",
+      "round": 1
+    },
+    {
+      "votes": 60829,
+      "name": "Jane Kim round2",
+      "candidate": "Jane Kim",
+      "round": 2
+    },
+    {
+      "votes": 61422,
+      "name": "Jane Kim round3",
+      "candidate": "Jane Kim",
+      "round": 3
+    },
+    {
+      "votes": 61843,
+      "name": "Jane Kim round4",
+      "candidate": "Jane Kim",
+      "round": 4
+    },
+    {
+      "votes": 63261,
+      "name": "Jane Kim round5",
+      "candidate": "Jane Kim",
+      "round": 5
+    },
+    {
+      "votes": 66043,
+      "name": "Jane Kim round6",
+      "candidate": "Jane Kim",
+      "round": 6
+    },
+    {
+      "votes": 7051,
+      "name": "Richie Greenberg round1",
+      "candidate": "Richie Greenberg",
+      "round": 1
+    },
+    {
+      "votes": 7128,
+      "name": "Richie Greenberg round2",
+      "candidate": "Richie Greenberg",
+      "round": 2
+    },
+    {
+      "votes": 7242,
+      "name": "Richie Greenberg round3",
+      "candidate": "Richie Greenberg",
+      "round": 3
+    },
+    {
+      "votes": 17552,
+      "name": "Angela Alioto round1",
+      "candidate": "Angela Alioto",
+      "round": 1
+    },
+    {
+      "votes": 17737,
+      "name": "Angela Alioto round2",
+      "candidate": "Angela Alioto",
+      "round": 2
+    },
+    {
+      "votes": 17929,
+      "name": "Angela Alioto round3",
+      "candidate": "Angela Alioto",
+      "round": 3
+    },
+    {
+      "votes": 19626,
+      "name": "Angela Alioto round4",
+      "candidate": "Angela Alioto",
+      "round": 4
+    },
+    {
+      "votes": 21981,
+      "name": "Angela Alioto round5",
+      "candidate": "Angela Alioto",
+      "round": 5
+    },
+    {
+      "votes": 1675,
+      "name": "Amy Farah Weiss round1",
+      "candidate": "Amy Farah Weiss",
+      "round": 1
+    },
+    {
+      "votes": 1735,
+      "name": "Amy Farah Weiss round2",
+      "candidate": "Amy Farah Weiss",
+      "round": 2
+    },
+    {
+      "votes": 9576,
+      "name": "Ellen Lee Zhou round1",
+      "candidate": "Ellen Lee Zhou",
+      "round": 1
+    },
+    {
+      "votes": 9687,
+      "name": "Ellen Lee Zhou round2",
+      "candidate": "Ellen Lee Zhou",
+      "round": 2
+    },
+    {
+      "votes": 9829,
+      "name": "Ellen Lee Zhou round3",
+      "candidate": "Ellen Lee Zhou",
+      "round": 3
+    },
+    {
+      "votes": 10637,
+      "name": "Ellen Lee Zhou round4",
+      "candidate": "Ellen Lee Zhou",
+      "round": 4
+    },
+    {
+      "votes": 136,
+      "name": "Exhausted Ballots round2",
+      "candidate": "Exhausted Ballots",
+      "round": 2
+    },
+    {
+      "votes": 280,
+      "name": "Exhausted Ballots round3",
+      "candidate": "Exhausted Ballots",
+      "round": 3
+    },
+    {
+      "votes": 2445,
+      "name": "Exhausted Ballots round4",
+      "candidate": "Exhausted Ballots",
+      "round": 4
+    },
+    {
+      "votes": 5237,
+      "name": "Exhausted Ballots round5",
+      "candidate": "Exhausted Ballots",
+      "round": 5
+    },
+    {
+      "votes": 13456,
+      "name": "Exhausted Ballots round6",
+      "candidate": "Exhausted Ballots",
+      "round": 6
+    },
+    {
+      "votes": 21510,
+      "name": "Exhausted Ballots round7",
+      "candidate": "Exhausted Ballots",
+      "round": 7
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 92124
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 92243
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 92442
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 93605
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 96392
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 102767
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 61416
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 61533
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 61881
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 62861
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 64128
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 68707
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 60738
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "value": 60829
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "value": 61422
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "value": 61843
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "value": 63261
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "value": 7051
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "value": 7128
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "value": 17552
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "value": 17737
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "value": 17929
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "value": 19626
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "value": 1675
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "value": 9576
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "value": 9687
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "value": 9829
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "value": 136
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "value": 280
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "value": 2445
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "value": 5237
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "value": 13456
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 119
+    },
+    {
+      "source": 30,
+      "target": 3,
+      "value": 199
+    },
+    {
+      "source": 23,
+      "target": 4,
+      "value": 1163
+    },
+    {
+      "source": 34,
+      "target": 5,
+      "value": 2787
+    },
+    {
+      "source": 28,
+      "target": 6,
+      "value": 6375
+    },
+    {
+      "source": 20,
+      "target": 7,
+      "value": 13210
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 117
+    },
+    {
+      "source": 30,
+      "target": 10,
+      "value": 348
+    },
+    {
+      "source": 23,
+      "target": 11,
+      "value": 980
+    },
+    {
+      "source": 34,
+      "target": 12,
+      "value": 1267
+    },
+    {
+      "source": 28,
+      "target": 13,
+      "value": 4579
+    },
+    {
+      "source": 20,
+      "target": 14,
+      "value": 44724
+    },
+    {
+      "source": 0,
+      "target": 16,
+      "value": 91
+    },
+    {
+      "source": 30,
+      "target": 17,
+      "value": 593
+    },
+    {
+      "source": 23,
+      "target": 18,
+      "value": 421
+    },
+    {
+      "source": 34,
+      "target": 19,
+      "value": 1418
+    },
+    {
+      "source": 28,
+      "target": 20,
+      "value": 2782
+    },
+    {
+      "source": 0,
+      "target": 22,
+      "value": 77
+    },
+    {
+      "source": 30,
+      "target": 23,
+      "value": 114
+    },
+    {
+      "source": 0,
+      "target": 25,
+      "value": 185
+    },
+    {
+      "source": 30,
+      "target": 26,
+      "value": 192
+    },
+    {
+      "source": 23,
+      "target": 27,
+      "value": 1697
+    },
+    {
+      "source": 34,
+      "target": 28,
+      "value": 2355
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 60
+    },
+    {
+      "source": 0,
+      "target": 32,
+      "value": 111
+    },
+    {
+      "source": 30,
+      "target": 33,
+      "value": 142
+    },
+    {
+      "source": 23,
+      "target": 34,
+      "value": 808
+    },
+    {
+      "source": 0,
+      "target": 35,
+      "value": 136
+    },
+    {
+      "source": 30,
+      "target": 36,
+      "value": 144
+    },
+    {
+      "source": 23,
+      "target": 37,
+      "value": 2165
+    },
+    {
+      "source": 34,
+      "target": 38,
+      "value": 2792
+    },
+    {
+      "source": 28,
+      "target": 39,
+      "value": 8219
+    },
+    {
+      "source": 20,
+      "target": 40,
+      "value": 8054
+    }
+  ]
+}
