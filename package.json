@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://elbertwang3.github.io/sfmayor-rcv-2018",
   "dependencies": {
+    "d3": "^5.7.0",
     "font-awesome": "^4.7.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
